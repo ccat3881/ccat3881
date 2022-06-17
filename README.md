@@ -4,6 +4,6 @@
 
 </a><img align="right" src="https://github-readme-stats.vercel.app/api?username=ccat3881&show_icons=true&theme=dark"/></p>
 
-</a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ccat3881&count_private=true&hide=procfile&theme=dark"/></p>
+</a><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ccat3881&count_private=true&hide=procfile&theme=dark"/></p>
 
 ### Hi 👋
