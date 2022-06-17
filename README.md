@@ -1,5 +1,4 @@
-<a href="https://discord.gg/marcello" target="_blank"> <img src="https://discord.com/api/guilds/984965575883239464/widget.json"></a>
-
-<iframe src="https://discord.com/widget?id=984965575883239464&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=008042&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/ccat3881" alt="Profile Stars"></a>
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=008042&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/ccat3881" alt="Profile Forks"></a>
 
 ### Hi 👋
