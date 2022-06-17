@@ -1,4 +1,4 @@
-<a href="https://discord.gg/casadev" target="_blank"> <img src="https://discord.com/api/guilds/961748786965786636/widget.png?style=shield" alt="shield.png"></a>
+<a href="https://discord.gg/marcello" target="_blank"> <img src="https://discord.com/api/guilds/961748786965786636/widget.png?style=shield" alt="shield.png"></a>
 ### Hi 👋
 
 <!--
