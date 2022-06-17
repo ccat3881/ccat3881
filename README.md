@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 <!--
 **ccat3881/ccat3881** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
